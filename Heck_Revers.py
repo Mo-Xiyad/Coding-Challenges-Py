@@ -17,15 +17,3 @@ def reverse_words_order_and_swap_cases(sentence):
 
 
 print(reverse_words_order_and_swap_cases("aWESOME is cODING"))
-
-
-if __name__ == '__main__':
-    # fptr = open(os.environ['OUTPUT_PATH'], 'w')
-
-    sentence = input()
-
-    result = reverse_words_order_and_swap_cases(sentence)
-
-    # fptr.write(result + '\n')
-
-    # fptr.close()
