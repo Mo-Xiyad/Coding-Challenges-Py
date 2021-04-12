@@ -3,7 +3,7 @@
 ################
 
 
-#  - The provided code stub reads and integer, N , from STDIN. For all non-negative integers I < N, print 1**2.
+#  - The provided code stub reads and integer, N , For all non-negative integers I < N, print 1**2.
 #
 #  - Example
 #    N = 3
@@ -13,8 +13,6 @@
 #  - 1
 #  - 4
 
-# if __name__ == '__main__':
-#     n = int(input())
 
 for i in range(n):
 
