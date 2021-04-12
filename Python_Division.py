@@ -16,10 +16,6 @@
 # - The result of the integer division 3//5 = 0.
 # - The result of the float division is 3/5 = 0.6.
 
-# if __name__ == '__main__':
-#     a = int(input())
-#     b = int(input())
-
 def division(a, b):
     div = int(a // b)
     flo = float(a / b)
